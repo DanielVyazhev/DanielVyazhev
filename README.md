@@ -1,43 +1,39 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/00-title-dark.png">
-    <img src="assets/00-title.png" alt="Daniil Vyazhev. LLM Researcher. MSc, HSE University · PhD student, Skoltech" width="100%">
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.png"><img src="assets/title-light.png" alt="Daniil Vyazhev. LLM Researcher. MSc, HSE University · PhD student, Skoltech" width="100%"></picture>
+</p>
+<p align="center">
+  <a href="https://t.me/danivyazhev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-tg-dark.png"><img src="assets/link-tg-light.png" alt="Telegram" height="40"></picture></a>
+  <a href="https://www.linkedin.com/in/danivyazhev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-li-dark.png"><img src="assets/link-li-light.png" alt="LinkedIn" height="40"></picture></a>
+  <a href="https://scholar.google.com/citations?user=0zpNAckAAAAJ&hl=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-gs-dark.png"><img src="assets/link-gs-light.png" alt="Google Scholar" height="40"></picture></a>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/strip-dark.png"><img src="assets/strip-light.png" alt="184 questions sorted by model confidence" width="100%"></picture>
 </p>
 
 <p align="center">
-  <a href="https://t.me/danivyazhev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-telegram-dark.png"><img src="assets/link-telegram.png" alt="Telegram" height="43"></picture></a>
-  <a href="https://www.linkedin.com/in/danivyazhev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.png"><img src="assets/link-linkedin.png" alt="LinkedIn" height="43"></picture></a>
-  <a href="https://scholar.google.com/citations?user=0zpNAckAAAAJ&hl=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-scholar-dark.png"><img src="assets/link-scholar.png" alt="Google Scholar" height="43"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-1-dark.png"><img src="assets/art-1-light.png" alt="" width="41%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-1-dark.png"><img src="assets/text-1-light.png" alt="1. Fine-tuning that spends reasoning only where the data is hard. Findings of EACL 2026" width="57%"></picture>
 </p>
-
-<a href="https://aclanthology.org/2026.findings-eacl.34/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/01-complexity-aware-fine-tuning-dark.png">
-    <img src="assets/01-complexity-aware-fine-tuning.png" alt="1. Complexity-aware fine-tuning. Findings of EACL 2026" width="100%">
-  </picture>
-</a>
 <p align="center"><a href="https://aclanthology.org/2026.findings-eacl.34/">Paper</a> · <a href="https://github.com/LabARSS/complexity-aware-fine-tuning">Code</a></p>
 
-<a href="https://arxiv.org/abs/2503.01688">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/02-llm-uncertainty-dark.png">
-    <img src="assets/02-llm-uncertainty.png" alt="2. When an LLM is apprehensive about its answers. arXiv 2025" width="100%">
-  </picture>
-</a>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-2-dark.png"><img src="assets/art-2-light.png" alt="" width="41%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-2-dark.png"><img src="assets/text-2-light.png" alt="2. When is a model's doubt justified? AINL 2025, Best Paper Award" width="57%"></picture>
+</p>
 <p align="center"><a href="https://arxiv.org/abs/2503.01688">Paper</a> · <a href="https://github.com/LabARSS/question-complextiy-estimation">Code</a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/03-teacher-student-dark.png">
-  <img src="assets/03-teacher-student.png" alt="3. On learning from a teacher, more than once. In submission" width="100%">
-</picture>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-3-dark.png"><img src="assets/art-3-light.png" alt="" width="41%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-3-dark.png"><img src="assets/text-3-light.png" alt="3. On learning from a teacher, more than once. In preparation" width="57%"></picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/04-urdu-detox-dark.png">
-  <img src="assets/04-urdu-detox.png" alt="4. Detoxification for Urdu in Nastaliq script. In submission" width="100%">
-</picture>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-4-dark.png"><img src="assets/art-4-light.png" alt="" width="41%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-4-dark.png"><img src="assets/text-4-light.png" alt="4. Detoxification for Urdu in Nastaliq script. Under review" width="57%"></picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/05-shorter-generation-dark.png">
-  <img src="assets/05-shorter-generation.png" alt="5. Shorter text generation. In development" width="100%">
-</picture>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-5-dark.png"><img src="assets/art-5-light.png" alt="" width="41%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-5-dark.png"><img src="assets/text-5-light.png" alt="5. Shorter text generation. In development" width="57%"></picture>
+</p>
+
