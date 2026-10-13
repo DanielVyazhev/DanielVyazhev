@@ -12,13 +12,13 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-1-dark.png"><img src="assets/art-1-light.png" alt="" width="41%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-1-dark.png"><img src="assets/text-1-light.png" alt="1. Fine-tuning that spends reasoning only where the data is hard. Findings of EACL 2026" width="57%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-1-dark.png"><img src="assets/text-1-light.png" alt="1. Complexity-Aware Fine-Tuning. Findings of EACL 2026" width="57%"></picture>
 </p>
 <p align="center"><a href="https://aclanthology.org/2026.findings-eacl.34/">Paper</a> · <a href="https://github.com/LabARSS/complexity-aware-fine-tuning">Code</a></p>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-2-dark.png"><img src="assets/art-2-light.png" alt="" width="41%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-2-dark.png"><img src="assets/text-2-light.png" alt="2. When is a model's doubt justified? AINL 2025, Best Paper Award" width="57%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-2-dark.png"><img src="assets/text-2-light.png" alt="2. When an LLM Is Apprehensive about Its Answers, and When Its Uncertainty Is Justified. AINL 2025, Best Paper Award" width="57%"></picture>
 </p>
 <p align="center"><a href="https://arxiv.org/abs/2503.01688">Paper</a> · <a href="https://github.com/LabARSS/question-complextiy-estimation">Code</a></p>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/art-4-dark.png"><img src="assets/art-4-light.png" alt="" width="41%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-4-dark.png"><img src="assets/text-4-light.png" alt="4. Detoxification for Urdu in Nastaliq script. Under review" width="57%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/text-4-dark.png"><img src="assets/text-4-light.png" alt="4. Detoxifying Nastaliq Urdu: A Parallel Benchmark and a Reference-Free Cascade of Small Models. Under review" width="57%"></picture>
 </p>
 
 <p align="center">
